@@ -1,0 +1,15 @@
+D:\ConsoleApp28\ConsoleApp28\bin\Debug\net6.0\ConsoleApp28.exe
+D:\ConsoleApp28\ConsoleApp28\bin\Debug\net6.0\ConsoleApp28.deps.json
+D:\ConsoleApp28\ConsoleApp28\bin\Debug\net6.0\ConsoleApp28.runtimeconfig.json
+D:\ConsoleApp28\ConsoleApp28\bin\Debug\net6.0\ConsoleApp28.dll
+D:\ConsoleApp28\ConsoleApp28\bin\Debug\net6.0\ConsoleApp28.pdb
+D:\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ConsoleApp28.csproj.AssemblyReference.cache
+D:\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ConsoleApp28.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ConsoleApp28.AssemblyInfoInputs.cache
+D:\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ConsoleApp28.AssemblyInfo.cs
+D:\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ConsoleApp28.csproj.CoreCompileInputs.cache
+D:\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ConsoleApp28.dll
+D:\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\refint\ConsoleApp28.dll
+D:\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ConsoleApp28.pdb
+D:\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ConsoleApp28.genruntimeconfig.cache
+D:\ConsoleApp28\ConsoleApp28\obj\Debug\net6.0\ref\ConsoleApp28.dll
